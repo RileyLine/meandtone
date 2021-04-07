@@ -1,0 +1,44 @@
+/* Leave this alone */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Leave this alone */
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+/* Leave this alone */
+.top-content {
+	width: 100%;
+	display: flex;
+}
+
+/* Leave this alone */
+.bottom-content {
+	width: 100%;
+	display: flex;
+}
+
+/* Styles for the "about" section */
+.about-area {
+	width: 65%;
+	background-color: lightblue;
+	padding: 30px;
+}
+
+/* Styles for the map area */
+.map-area {
+	width: 35%;
+	background-color: lightpink;
+	padding: 30px;
+}
+
+/* Styles for the menu area */
+.menu-area {
+	width: 100%;
+	background-color: lightgreen;
+	padding: 30px;
+}
